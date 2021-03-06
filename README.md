@@ -1,7 +1,7 @@
 # Sentiment Index of China's Stock Market and its Causal Effect on Stock Indices
 
 - My undergraduate thesis at FCU in 2019 
-- Coauthor: Elizer Wang 
+- Coauthor: Elizier Wang 
 
 ## A brief overview of this project
 - Scrape 489870 posts (about 2 years) from a Chinese stock forum 
